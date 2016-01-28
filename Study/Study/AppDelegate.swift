@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Study
 //
-//  Created by Robert Tarabcak on 28.01.16.
+//  Created by Robert Tarabcak on 30.12.15.
 //  Copyright © 2016 Robert Tarabcak. All rights reserved.
 //
 
